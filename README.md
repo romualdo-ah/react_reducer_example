@@ -1,6 +1,6 @@
 # React_reducer_example
 
-##Launch here to test:
+## Launch here to test:
 <a href="https://romualdo-ah.github.io/react_reducer_example">https://romualdo-ah.github.io/react_reducer_example</a>
 
 This project was created for studying porpuses.
