@@ -15,6 +15,6 @@ the component uses an external API to make POST, GET, and DELETE requests.
 The goal of this project is to show an alternative to clean up the DataFetching component by separating the state handling on a external function (reducer), and share some global states between other components.
 
 
-
+Deployed with Github pages
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
