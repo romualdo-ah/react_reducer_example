@@ -1,6 +1,6 @@
 # React_reducer_example
 
-Launch here to test:
+##Launch here to test:
 <a href="https://romualdo-ah.github.io/react_reducer_example">https://romualdo-ah.github.io/react_reducer_example</a>
 
 This project was created for studying porpuses.
@@ -10,7 +10,7 @@ This API you can be founded at <a href="https://jsonplaceholder.typicode.com/gui
 
 ## The goal
 
-The goal is to clean up the DataFetching component by separating the state handling on a external function (reducer), and share some global states between other components.
+The goal of this project is to show an alternative to clean up the DataFetching component by separating the state handling on a external function (reducer), and share some global states between other components.
 
 
 
