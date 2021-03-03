@@ -1,6 +1,6 @@
 This project was created for studying porpuses.
 
-File DataFetching.js was created and used a reducer function and a component named <a href="">DataFetching.js</a>. 
+File DataFetching.js was created and used a reducer function and a component named <a href="https://github.com/romualdo-ah/react_reducer_example/blob/master/src/components/DataFetching.js">DataFetching.js</a>. 
 the component uses an external API to make POST, GET, and DELETE requests.
 
 ## Launch here to test:
