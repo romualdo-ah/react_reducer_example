@@ -6,7 +6,10 @@
 This project was created for studying porpuses.
 On the component DataFetching was created and used a reducer function. 
 On the project is used an external API to make POST, GET, and DELETE request.
-This API you can be founded at <a href="https://jsonplaceholder.typicode.com/guide/" target="_blank">https://jsonplaceholder.typicode.com</a> 
+
+## The API used
+
+<a href="https://jsonplaceholder.typicode.com/guide/" target="_blank">https://jsonplaceholder.typicode.com</a> 
 
 ## The goal
 
